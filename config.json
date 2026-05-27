@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "routerpalidate",
+        "uuid": 10211131,
+        "checksum": "50zz0p"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
